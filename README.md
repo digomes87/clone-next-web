@@ -3,7 +3,7 @@
 This is the 6th project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org)
 
 
-this project, you’ll get the chance to build a responsive website. We’ll be cloning The Next Web, a tech-focused magazine which uses media queries to gracefully degrade their site as the window size is reduced.The process will be quite similar to what we’ve done before. At this point, you should be much faster at setting up a site layout and positioning the elements than when you first started.
+In this project, you’ll get the chance to build a responsive website. We’ll be cloning The Next Web, a tech-focused magazine which uses media queries to gracefully degrade their site as the window size is reduced.The process will be quite similar to what we’ve done before. At this point, you should be much faster at setting up a site layout and positioning the elements than when you first started.
 
 Once you’re done setting up your framework, you will use it to clone any website you like. If you’re out of ideas, try cloning The Odin Project!
 # Odin-clone
@@ -31,7 +31,7 @@ Once you’re done setting up your framework, you will use it to clone any websi
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-this project, you’ll get the chance to build a responsive website. We’ll be cloning The Next Web, a tech-focused magazine which uses media queries to gracefully degrade their site as the window size is reduced.The process will be quite similar to what we’ve done before. At this point, you should be much faster at setting up a site layout and positioning the elements than when you first started.
+In this project, you’ll get the chance to build a responsive website. We’ll be cloning The Next Web, a tech-focused magazine which uses media queries to gracefully degrade their site as the window size is reduced.The process will be quite similar to what we’ve done before. At this point, you should be much faster at setting up a site layout and positioning the elements than when you first started.
 
 Once you’re done setting up your framework, you will use it to clone any website you like. If you’re out of ideas, try cloning The Odin Project!
 
